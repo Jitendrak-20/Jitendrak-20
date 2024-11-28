@@ -1,7 +1,12 @@
-<h2 align="left">Hi 👋! My name is Jitendra Kumar and I'm a Software Tester enthusiast, from India</h2>
+<h2 align="center">Hi 👋! My name is Jitendra Kumar and I'm a Software Tester enthusiast, from India</h2>
 
+<h2 align="center">⚡ About Me </h2>
+<h4 align="center"> I'm a fresher software tester with hands-on experience in both manual testing and automation testing. I love solving problems and ensuring that software works seamlessly before it reaches the end user. My goal is to continuously improve my skills and contribute to creating better software.
+</h4>
+<h2 align="center">🌱 Currently learning </h2>
+ <h4 align="center">Selenium, Automation frameworks, Continuous Integration, API testing </h4>
 
-
+<h2 align="center">🛠 Technologies I work with </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -27,8 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /> -->
 </div>
 
-
-###
+<h2 align="center">📫 Reach Me </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/jk-jitendra-kumar"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/> </a>
   <!--
