@@ -17,7 +17,7 @@
    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain.svg" height="30" alt="html logo"  />
   <img width="12" />
-  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="30" alt="cypress logo"  />
+  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="32" alt="cypress logo"  />
  <!--
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
