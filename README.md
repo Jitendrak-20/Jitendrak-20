@@ -78,7 +78,7 @@
  
 ![](https://github-contributor-stats.vercel.app/api?username=jitendrak-20&limit=5&theme=transparent&combine_all_yearly_contributions=true) 
 </h2>
-<h2 align="left">
+<h2 align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=jitendrak-20&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jitendrak-20&theme=neon&hide_border=false) </br>
