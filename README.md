@@ -8,21 +8,21 @@
 
 <h2 align="center">🛠 Technologies I work with </h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" height="30" alt="mocha logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" height="50" alt="mocha logo"  />
  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" height="30" alt="jira logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" height="50" alt="jira logo"  />
    <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain.svg" height="30" alt="html logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain.svg" height="50" alt="html logo"  />
   <img width="12" />
-  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="32" alt="cypress logo"  />
+  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" height="52" alt="cypress logo"  />
  <!--
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -68,8 +68,34 @@
 </div>
 -->
 ###
+<!--
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+-->
+<!--# 📊 GitHub Stats: -->
+<h2 align="center">
+ 
+![](https://github-contributor-stats.vercel.app/api?username=jitendrak-20&limit=5&theme=transparent&combine_all_yearly_contributions=true) 
+</h2>
+<h2 align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=jitendrak-20&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jitendrak-20&theme=neon&hide_border=false) </br>
 
+</h2>
+ <h2 align="center">✍️ Random Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</h2>
+<!-- <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrak-20&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
+<!--
+---
+[![](https://visitcount.itsvg.in/api?id=jitendrak-20&icon=9&color=1)](https://visitcount.itsvg.in)
+-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
