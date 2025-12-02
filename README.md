@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Jitendra Kumar and I'm a Software Tester enthusiast, from India</h2>
 
 <h2 align="center">⚡ About Me </h2>
-<h4 align="center"> I'm a fresher software tester with hands-on experience in both manual testing and automation testing. I love solving problems and ensuring that software works seamlessly before it reaches the end user. My goal is to continuously improve my skills and contribute to creating better software.
+<h4 align="center"> I'm a software tester with hands-on experience in both manual testing and automation testing. I love solving problems and ensuring that software works seamlessly before it reaches the end user. My goal is to continuously improve my skills and contribute to creating better software.
 </h4>
 <h2 align="center">🌱 Currently learning </h2>
  <h4 align="center">Selenium, Automation frameworks, Continuous Integration, API testing </h4>
